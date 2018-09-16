@@ -1,2 +1,2 @@
 # High-School-Result-Management-Software-(HSRMS)
-This is a curriculum vitae site. It has design by Bootstrap, JavaScript, Web API, JavaScript, Ajax etc. All information a person to view this website.
+High School Result Processing Website. This site processing class six to ten result, exam routine, students list, attendance view, admission form, event etc. This site very helpful any secondary school. 
